@@ -1,0 +1,11 @@
+#popup-content {
+    padding: 10px;
+    font-family: Arial, sans-serif;
+  }
+  #language-selector {
+    margin: 5px 0;
+    width: 100%;
+  }
+  #score-display {
+    margin-top: 10px;
+  }
